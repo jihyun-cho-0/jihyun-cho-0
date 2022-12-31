@@ -19,3 +19,7 @@
 
 ### MusicReco <a href="https://github.com/Carrotww/Recommend_service">(GitHub Link)</a>
 음악 추천 서비스
+
+&nbsp; 
+
+![jihyun-cho-0's github stats](https://github-readme-stats.vercel.app/api?username=jihyun-cho-0&show_icons=true)
